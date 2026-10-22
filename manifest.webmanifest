@@ -1,0 +1,1 @@
+{"name": "E", "short_name": "E", "description": "", "start_url": "./index.html", "scope": "./", "display": "standalone", "orientation": "portrait", "background_color": "#0a0507", "theme_color": "#0a0507", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
